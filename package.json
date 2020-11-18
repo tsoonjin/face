@@ -14,6 +14,9 @@
     "websocket": "^1.0.32"
   },
   "devDependencies": {
+    "eslint": "7.2.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-plugin-import": "^2.22.1",
     "nodemon": "^2.0.6"
   }
 }
